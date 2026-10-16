@@ -1,2 +1,2 @@
 # programacion-3.
-Repositorio para los trabajos de programacion
+Repositorio creado para los trabajos de programacion del tercer trimestre.
